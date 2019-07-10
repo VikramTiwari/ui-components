@@ -1,5 +1,6 @@
 {
-  "name": "ui-components",
+  "name": "@ivikramtiwari/ui-components",
+  "private": false,
   "version": "0.1.0",
   "devDependencies": {
     "@babel/cli": "^7.5.0",
@@ -21,7 +22,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/vikramtiwari/ui-components"
+    "url": "git+https://github.com/vikramtiwari/ui-components.git"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -44,5 +45,12 @@
       "last 1 safari version"
     ]
   },
-  "dependencies": {}
+  "dependencies": {},
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "bugs": {
+    "url": "https://github.com/vikramtiwari/ui-components/issues"
+  },
+  "homepage": "https://github.com/vikramtiwari/ui-components#readme",
+  "author": "",
+  "license": "MIT"
 }
